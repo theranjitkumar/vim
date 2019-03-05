@@ -1,7 +1,7 @@
 # vim
 vim configuration and commands
 
-##  VIM commans:-
+##  VIM commands:-
     Press d to cut y to copy p to paste -vim
     > for indent and < for unindent in command mode
     ctrl+T for indent and ctrl+D for unindent in insert mode
