@@ -1,6 +1,15 @@
 # vim
 vim configuration and commands
 
+#   steps to install vim plug
+step 1. run on terminal :
+    curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+    
+    <a href="https://github.com/junegunn/vim-plug"> refring </a>
+    
+step 2. create a .vimrc file in home directory > put basic vim cofig(can be used this repo .vimrc content) > open vim in terminal > press : > write plug (to check for more plug option press tab) > finaly use plugInstall to install plugin
+
 ##  VIM commands:-
     Press d to cut y to copy p to paste -vim
     > for indent and < for unindent in command mode
